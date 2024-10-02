@@ -1,7 +1,7 @@
 # Faraday-AI-Cloud，稳定的AI API服务
 
 ## 关于我们
-Faraday-AI Cloud （https://faraday.cloud/） 为您提供企业级、稳定的 API 集成和分发服务。我们的平台让您可以轻松且无限制地使用100多种顶尖AI模型，包括：OpenAI 的 GPT 系列, Anthropic Claude 系列， Meta Llama 系列。
+Faraday-AI Cloud https://faraday.cloud/ 为您提供企业级、稳定的 API 集成和分发服务。我们的平台让您可以轻松且无限制地使用100多种顶尖AI模型，包括：OpenAI 的 GPT 系列, Anthropic Claude 系列， Meta Llama 系列。
 无论您是个人用户还是企业开发者，Faraday Cloud 都能为您的AI需求提供便捷、高效的解决方案。
 
 ## 我们的服务优势
